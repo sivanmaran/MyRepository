@@ -1,0 +1,11 @@
+{
+  "table": "sales",
+  "description": "Customer sales transactions",
+  "columns": {
+    "sale_id": "Unique sale transaction identifier",
+    "customer_id": "Unique customer identifier",
+    "sale_date": "Date of sale",
+    "product": "Product purchased",
+    "revenue": "Revenue generated in AED"
+  }
+}

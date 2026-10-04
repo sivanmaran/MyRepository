@@ -1,0 +1,11 @@
+{
+  "table": "customers",
+  "description": "Customer master information",
+  "columns": {
+    "customer_id": "Unique customer identifier",
+    "customer_name": "Customer name",
+    "region": "Customer geographic region",
+    "segment": "Customer segment",
+    "status": "Customer account status"
+  }
+}

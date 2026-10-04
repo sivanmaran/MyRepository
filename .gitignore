@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+.ipynb_checkpoints/
+
+# Local database/data
+*.duckdb
+*.db
+data/
+
+# Vector database
+vectorstore/
+chroma/
+
+# Models
+models/
+*.gguf
+*.safetensors
+*.bin
+
+# Secrets
+.env
+*.key
+*.pem
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
